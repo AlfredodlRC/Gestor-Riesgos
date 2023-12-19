@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ventanas\Panel_datos_basicos.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\Panel_tab_activos.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\Ventana_ver_activo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventana_principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

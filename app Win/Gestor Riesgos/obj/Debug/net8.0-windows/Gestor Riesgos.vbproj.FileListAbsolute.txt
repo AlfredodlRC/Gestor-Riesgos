@@ -1,0 +1,22 @@
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.vbproj.AssemblyReference.cache
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor_Riesgos.Ventana_principal.resources
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.vbproj.GenerateResource.cache
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.AssemblyInfoInputs.cache
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.AssemblyInfo.vb
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.vbproj.CoreCompileInputs.cache
+G:\Gestor Riesgos\Gestor Riesgos\bin\Debug\net8.0-windows\Gestor Riesgos.exe
+G:\Gestor Riesgos\Gestor Riesgos\bin\Debug\net8.0-windows\Gestor Riesgos.deps.json
+G:\Gestor Riesgos\Gestor Riesgos\bin\Debug\net8.0-windows\Gestor Riesgos.runtimeconfig.json
+G:\Gestor Riesgos\Gestor Riesgos\bin\Debug\net8.0-windows\Gestor Riesgos.dll
+G:\Gestor Riesgos\Gestor Riesgos\bin\Debug\net8.0-windows\Gestor Riesgos.pdb
+G:\Gestor Riesgos\Gestor Riesgos\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.vbproj.CopyComplete
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.dll
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\refint\Gestor Riesgos.dll
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.pdb
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor Riesgos.genruntimeconfig.cache
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\ref\Gestor Riesgos.dll
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor_Riesgos.Ventana_ver_activo.resources
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor_Riesgos.Panel_datos_basicos.resources
+G:\Gestor Riesgos\Gestor Riesgos\obj\Debug\net8.0-windows\Gestor_Riesgos.Panel_tab_activos.resources
